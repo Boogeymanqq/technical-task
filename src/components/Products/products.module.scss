@@ -1,0 +1,27 @@
+.products__btn {
+  display: flex;
+  justify-content: center;
+  column-gap: 80px;
+
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+}
+
+.products__block {
+  padding-top: 20px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.products__modal {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
